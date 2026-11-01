@@ -6,6 +6,10 @@ Group project for EEE 3100 (Electronics Shop Practice), Department of Electrical
 
 ![The prototype connected to a laptop that shows the radar display](exp-set-up.jpg)
 
+## Demo video
+
+[Watch the project video on Google Drive](https://drive.google.com/file/d/1vy8tJJpiTDtDfKLlMJdKPFxwBwXRB3BL/view) (about 16 MB).
+
 ## What the system does
 
 - **Distance and angle:** the servo turns the front HC-SR04 across the scan area. The sensor sends an ultrasonic pulse and times the echo, and the servo position gives the angle of each detected object.
